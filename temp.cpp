@@ -50,6 +50,6 @@ class Solution
        //return solve(n,a,0,-1,dp);
        
        return solve2(n,a);
-       
+     cout<<endl<<"Hello";  
     }
 };
